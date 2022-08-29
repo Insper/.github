@@ -13,6 +13,7 @@ Repositório de disciplinas:
 | 3 | Elementos de Sistemas | https://insper.github.io/Z01.1/ |
 | 5 | Computação Embarcada | https://insper.github.io/ComputacaoEmbarcada/ | 
 | 5 | Sistemas Hardware Software | https://insper.github.io/SistemasHardwareSoftware/ |
+| 6 | Computacao em Nuvem |  https://insper.github.io/computacao-nuvem/ |
 | 8 | Desenvolvimento Aberto | https://insper.github.io/dev-aberto/ |
 
 
