@@ -14,7 +14,7 @@ Repositório de disciplinas:
 | 5 | Computação Embarcada | https://insper.github.io/ComputacaoEmbarcada/ | 
 | 5 | Sistemas Hardware Software | https://insper.github.io/SistemasHardwareSoftware/ |
 | 6 | Computacao em Nuvem |  https://insper.github.io/computacao-nuvem/ |
-| 7 | Supercomputacao   | https://insper.github.io/supercomputacao/ |
+| 7 | Supercomputacao   | https://insper.github.io/supercomp/ |
 | 8 | Desenvolvimento Aberto | https://insper.github.io/dev-aberto/ |
 
 
