@@ -4,6 +4,7 @@ Outras organizações relevantes:
 
 - https://github.com/insper-education/ : ferramentas de auxilio de ensino
 - https://github.com/insper-classroom/ : organização para ser usada com o github classroom
+- https://insper.github.io/UpCluster/  : projeto de pesquisa computacao distribuida CLUSTER
 
 Repositório de disciplinas:
 
